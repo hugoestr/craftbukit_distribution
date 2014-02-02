@@ -1,0 +1,108 @@
+[14:36:23] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[14:36:23] [Server thread/INFO]: Loading properties
+[14:36:23] [Server thread/WARN]: server.properties does not exist
+[14:36:23] [Server thread/INFO]: Generating new properties file
+[14:36:23] [Server thread/INFO]: Default game type: SURVIVAL
+[14:36:23] [Server thread/INFO]: Generating keypair
+[14:36:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:36:25] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
+[14:36:25] [Server thread/WARN]: Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+[14:36:25] [Server thread/WARN]: Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+[14:36:25] [Server thread/INFO]: Preparing level "world"
+[14:36:25] [Server thread/INFO]: Preparing start region for level 0 (Seed: -5978025446962976855)
+[14:36:26] [Thread-6/INFO]: ----- Bukkit Auto Updater -----
+[14:36:26] [Thread-6/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[14:36:26] [Thread-6/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[14:36:26] [Thread-6/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[14:36:26] [Thread-6/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[14:36:26] [Thread-6/INFO]: ----- ------------------- -----
+[14:36:26] [Server thread/INFO]: Preparing spawn area: 10%
+[14:36:27] [Server thread/INFO]: Preparing spawn area: 19%
+[14:36:28] [Server thread/INFO]: Preparing spawn area: 28%
+[14:36:29] [Server thread/INFO]: Preparing spawn area: 37%
+[14:36:30] [Server thread/INFO]: Preparing spawn area: 44%
+[14:36:31] [Server thread/INFO]: Preparing spawn area: 52%
+[14:36:32] [Server thread/INFO]: Preparing spawn area: 60%
+[14:36:33] [Server thread/INFO]: Preparing spawn area: 67%
+[14:36:34] [Server thread/INFO]: Preparing spawn area: 74%
+[14:36:35] [Server thread/INFO]: Preparing spawn area: 79%
+[14:36:37] [Server thread/INFO]: Preparing spawn area: 84%
+[14:36:38] [Server thread/INFO]: Preparing spawn area: 92%
+[14:36:38] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5978025446962976855)
+[14:36:43] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:44] [Server thread/INFO]: Preparing spawn area: 12%
+[14:36:45] [Server thread/INFO]: Preparing spawn area: 18%
+[14:36:46] [Server thread/INFO]: Preparing spawn area: 28%
+[14:36:47] [Server thread/INFO]: Preparing spawn area: 40%
+[14:36:48] [Server thread/INFO]: Preparing spawn area: 48%
+[14:36:49] [Server thread/INFO]: Preparing spawn area: 60%
+[14:36:50] [Server thread/INFO]: Preparing spawn area: 69%
+[14:36:51] [Server thread/INFO]: Preparing spawn area: 73%
+[14:36:52] [Server thread/INFO]: Preparing spawn area: 77%
+[14:36:53] [Server thread/INFO]: Preparing spawn area: 86%
+[14:36:54] [Server thread/INFO]: Preparing spawn area: 97%
+[14:36:54] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5978025446962976855)
+[14:36:55] [Server thread/INFO]: Preparing spawn area: 30%
+[14:36:56] [Server thread/INFO]: Preparing spawn area: 56%
+[14:36:57] [Server thread/INFO]: Preparing spawn area: 94%
+[14:36:58] [Server thread/INFO]: Done (32.984s)! For help, type "help" or "?"
+[14:41:44] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[14:41:44] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[14:41:44] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[14:41:44] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mPrevents the specified player from using this server[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mPrevents the specified IP address from using this server[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mView all players banned from this server[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mClears the player's inventory. Can specify item and data filters too.[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mSet the default gamemode[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mTakes the specified player's operator status[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mSets the game difficulty[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mAdds/Removes effects on players[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mAdds enchantments to the item the player is currently holding. Specify 0 for the level to remove an enchantment. Specify force to ignore normal enchantment restrictions[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mChanges the player to a specific game mode[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mSets a server's game rules[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/give: [0;37;1mGives the specified player a certain amount of items[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mRemoves the specified player from the server[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mCommits suicide, only usable as a player[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/list: [0;37;1mLists all online players[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/me: [0;37;1mPerforms the specified action in chat[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/op: [0;37;1mGives the specified player operator status[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mAllows the specified player to use this server[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mAllows the specified IP address to use this server[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mPlays a sound to a given player[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mSaves the server to disk[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mDisables server autosaving[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mEnables server autosaving[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/say: [0;37;1mBroadcasts the given message as the console[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mScoreboard control[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mShows the world seed[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mSets a player's spawn point[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mSpreads players around a point[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mStops the server with optional reason[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mSends a private message to the given player[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mTests whether a specifed player is online[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/time: [0;37;1mChanges the time on each world[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mToggles rain on/off on a given world[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mTeleports the given player (or yourself) to another player or coordinates[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mChanges the weather[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mManages the list of players allowed to use this server[m
+[14:41:44] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mGives the specified player a certain amount of experience. Specify <amount>L to give levels instead, with a negative amount resulting in taking levels.[m
+[14:54:26] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[14:54:28] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[14:54:28] [Server thread/INFO]: Stopping server
+[14:54:28] [Server thread/INFO]: Saving players
+[14:54:28] [Server thread/INFO]: Saving worlds
+[14:54:28] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[14:54:28] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[14:54:28] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[14:54:28] [Thread-4/INFO]: Stopping server
+[14:54:28] [Thread-4/INFO]: Saving players
+[14:54:28] [Thread-4/INFO]: Saving worlds
+[14:54:28] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[14:54:28] [Thread-4/INFO]: Saving chunks for level 'world_nether'/Nether
+[14:54:28] [Thread-4/INFO]: Saving chunks for level 'world_the_end'/The End
